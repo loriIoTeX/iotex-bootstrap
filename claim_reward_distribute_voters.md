@@ -58,5 +58,6 @@ Use the iotcl command line tool to get the ETH address associated with your IoTe
 
 You can check address **0x789F340eD3b726df6f3ec625183E1Ee6b9b5a65e** on etherscan.io to verify that you have received equal amount of IoTeX Network ERC20 token
 
-# 3. Multi-send tool
+# 4. MultiSend ECR20 token to voters
 
+You can use this tool to distribute ECR20 tokens to your voters. Go to https://member.iotex.io/multi-send, sign into Metamask, paste the JSON file from step 3 above into "Recipients and Amounts", then click the button "Distribute ERC-20 IOTX", and follow instructions from Metamask.
